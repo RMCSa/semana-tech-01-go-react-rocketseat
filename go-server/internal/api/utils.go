@@ -6,8 +6,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/rocketseat-education/semana-tech-go-react-server/internal/store/pgstore"
-
+	"github.com/RMCSa/semana-tech-go-react-rocketseat/go-server/internal/store/pgstore"
 	"github.com/go-chi/chi/v5"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5"
